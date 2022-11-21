@@ -7,7 +7,7 @@ whoosh
 jieba
 django-haystack
 requests
-tensorflow==1.14.0
+tensorflow==2.9.3
 keras
 celery_haystack
 zipstream
